@@ -63,5 +63,3 @@ The application is a GUI program. Once started, you will be able to use the inte
 This will launch the GUI application.
 
 ---
-
-Feel free to modify any part of this README to better suit your project's specifics!
